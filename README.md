@@ -70,7 +70,7 @@ This project is ideal for:
 - Anyone wanting to deploy a ready ML model in Python
 
 
-##Author
+Author
 
 Made by [medo469](https://github.com/medo469)
 Sudanese tech \& data enthusiast
